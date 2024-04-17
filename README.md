@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Shubhojit Mitra</h1>
 <h3 align="center">MERN Stack Developer | Cybersecurity & Web3 Enthusiast</h3>
 <br>
-<img align="right" alt="coding" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpnZ2cxejhxOHpqd3A4NHRsdzNrY24ydjNwMjllenc5b2l4M3k2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="coding" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdrdGEwYjVsMDQzNjIzdWloYjMzaWZ5d3BlZXgyanQ1bmV2eDRpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
-- 🌱 I’m currently learning **React, Next and Express**
+- 🌱 I’m currently learning : **React, Next and Express**
 
-- 💬 Ask me about **Python, JavaScript and Frontend**
+- 💬 Ask me about : **Python, JavaScript and Frontend**
 
-- 📫 How to reach me **mitrashubhojit2005@gmail.com**
+- 📫 How to reach me : **mitrashubhojit2005@gmail.com**
 
-- ⚡ Fun fact **My life runs on caffeine**
+- ⚡ Fun fact : **My life runs on caffeine**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
