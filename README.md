@@ -1,4 +1,4 @@
-![logo](https://github.com/Shubhojit-Mitra/Shubhojit-Mitra/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true)
+![logo](https://github.com/Shubhojit-Mitra/Shubhojit-Mitra/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png?raw=true)
 <h1 align="center">Hi 👋, I'm Shubhojit Mitra</h1>
 <h3 align="center">MERN Stack Developer | Cybersecurity & Web3 Enthusiast</h3>
 <br>
